@@ -1,0 +1,6 @@
+/target
+data/blueprints/*
+data/sde/*
+data/items/*
+data/productionruns/*
+
